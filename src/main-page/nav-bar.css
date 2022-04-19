@@ -1,0 +1,24 @@
+.main-nav{
+
+}
+.main-nav ul{
+   list-style: none; 
+}
+.nav-tab{
+    float: left;
+    padding: 0 .5rem;
+}
+
+.nav-tab a{
+    color: rgb(255, 190, 166);
+    display: block;
+    line-height: 72px;
+}
+.nav-tab a:hover{
+    border-bottom: 2px solid rgb(255, 190, 166);
+    color: rgb(255, 190, 166);
+    text-decoration: none;
+}
+.nav-tab a span{
+    display: block;
+}
